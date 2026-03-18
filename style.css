@@ -1,0 +1,25 @@
+nav{
+    background-color: #354f52;
+}
+.divider{
+     background-color: #2f3e46;
+}
+
+body{
+    background-color: #d6c6b5;
+    font-family: 'Quantico', 'Special Elite', sans-serif;
+    padding-top: 70px;
+}
+
+.linkimg{
+    max-width: 25px;
+    max-height: 25px;
+}
+
+.card{
+    background-color: #a3b18a;
+}
+
+.btn{
+    background-color: #588157;
+}
