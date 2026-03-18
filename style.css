@@ -23,9 +23,3 @@ body{
 .btn{
     background-color: #588157;
 }
-
-.img-fluid{
-    width: 75px; 
-    aspect-ratio: 1 / 1; 
-    object-fit: cover;
-}
